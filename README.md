@@ -1,0 +1,1 @@
+# trener_rag
